@@ -38,6 +38,7 @@ ratings - the entire ratings file with over 26 million rows
 Spots where code could be added to handle possible errors:  
 - if the files don't exist
 - if the database doesn't exist
+
 The final database should be reviewed for:
 - if the data input files have changed
 - if data is no longer available
